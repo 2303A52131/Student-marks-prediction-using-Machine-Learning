@@ -43,17 +43,16 @@ Evaluate model performance
 Show a visualization and prediction sample
 
 Example:
-
 python student_marks_predictor.py
 
 
 Output:
-
 Dataset Loaded Successfully!
 Model Performance:
 Mean Squared Error (MSE): 3.72
 R² Score: 0.984
 Predicted Marks for (5 courses, 6.5 hrs): 36.45
+
 
 Output Visualizations
 
