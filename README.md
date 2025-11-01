@@ -23,6 +23,8 @@ Features
    ```bash
    git clone https://github.com/<your-username>/Student-Marks-Prediction-ML.git
    cd Student-Marks-Prediction-ML
-2.pip install -r requirements.txt
-3.python student_marks_predictor.py
+2.bash
+pip install -r requirements.txt
+3.bash
+python student_marks_predictor.py
 
