@@ -23,8 +23,30 @@ Features
    ```bash
    git clone https://github.com/<your-username>/Student-Marks-Prediction-ML.git
    cd Student-Marks-Prediction-ML
-2.bash
+2.Run the project:
+  ```bash
 pip install -r requirements.txt
-3.bash
 python student_marks_predictor.py
+
+---
+
+### 6️⃣ **Usage / How It Works**
+Explain briefly how to use it — input → output.
+```markdown
+## 🧩 Usage
+The model takes two inputs:
+- **number_courses** → Number of courses taken  
+- **time_study** → Study time in hours  
+
+It predicts the **Marks** using a trained Linear Regression model.
+## 📊 Output Example
+
+![Visualization](preview.png)
+## 🔮 Future Enhancements
+- Add a Streamlit web app interface  
+- Improve model accuracy with polynomial regression  
+- Deploy model online  
+
+
+
 
